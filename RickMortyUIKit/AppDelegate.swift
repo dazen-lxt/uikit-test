@@ -5,15 +5,28 @@
 //  Created by Carlos Mario Muñoz on 18/10/23.
 //
 
+import CoreData
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    lazy var persistentContainer: NSPersistentContainer = {
+        let container = NSPersistentContainer(name: "ItemCoreModel")
+        container.loadPersistentStores { description, error in
+            if let error = error {
+                fatalError("Error al cargar el almacén persistente: \(error)")
+            }
+        }
+        return container
+    }()
+
+    var viewContext: NSManagedObjectContext {
+        return persistentContainer.viewContext
+    }
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
         return true
     }
 

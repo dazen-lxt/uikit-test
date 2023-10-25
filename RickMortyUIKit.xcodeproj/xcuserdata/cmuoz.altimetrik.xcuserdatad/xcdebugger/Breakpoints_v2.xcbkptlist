@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4554061-AA6E-44FD-8E99-88017F805634"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78200E01-ABCB-4A12-B83E-01E4840F6D63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "sendRequest(method:path:queryItems:body:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "108BBB08-D699-4DE8-A277-9841BB4E9D68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "sendRequest(method:path:queryItems:body:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F6E89B9-A895-4049-8643-C1F489277BF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "sendRequest(method:path:queryItems:body:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F6E89B9-A895-4049-8643-C1F489277BF0 - 68635ef8520897e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickMortyUIKit.ApiClientImpl.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(method: RickMortyUIKit.HttpMethod, path: Swift.String, queryItems: Swift.Optional&lt;Swift.Array&lt;Foundation.URLQueryItem&gt;&gt;, body: Swift.Optional&lt;Foundation.Data&gt;) async throws -&gt; Swift.Result&lt;&#x3c4;_0_0, RickMortyUIKit.ApiClientError&gt;"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/ApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "3473">
+               </Location>
+               <Location
+                  uuid = "1F6E89B9-A895-4049-8643-C1F489277BF0 - 68635ef8520897c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickMortyUIKit.ApiClientImpl.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(method: RickMortyUIKit.HttpMethod, path: Swift.String, queryItems: Swift.Optional&lt;Swift.Array&lt;Foundation.URLQueryItem&gt;&gt;, body: Swift.Optional&lt;Foundation.Data&gt;) async throws -&gt; Swift.Result&lt;&#x3c4;_0_0, RickMortyUIKit.ApiClientError&gt;"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/ApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "4642">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8822826B-5425-4884-B973-A12FA9B71F16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "sendRequest(method:path:queryItems:body:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8822826B-5425-4884-B973-A12FA9B71F16 - f8d73a73d9ec0225"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickMortyUIKit.ApiClientImpl.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(method: RickMortyUIKit.HttpMethod, path: Swift.String, queryItems: Swift.Optional&lt;Swift.Array&lt;Foundation.URLQueryItem&gt;&gt;, body: Swift.Optional&lt;Foundation.Data&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/ApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "3048">
+               </Location>
+               <Location
+                  uuid = "8822826B-5425-4884-B973-A12FA9B71F16 - 68635ef852089765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickMortyUIKit.ApiClientImpl.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(method: RickMortyUIKit.HttpMethod, path: Swift.String, queryItems: Swift.Optional&lt;Swift.Array&lt;Foundation.URLQueryItem&gt;&gt;, body: Swift.Optional&lt;Foundation.Data&gt;) async throws -&gt; Swift.Result&lt;&#x3c4;_0_0, RickMortyUIKit.ApiClientError&gt;"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/ApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2162">
+               </Location>
+               <Location
+                  uuid = "8822826B-5425-4884-B973-A12FA9B71F16 - 68635ef852089765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickMortyUIKit.ApiClientImpl.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(method: RickMortyUIKit.HttpMethod, path: Swift.String, queryItems: Swift.Optional&lt;Swift.Array&lt;Foundation.URLQueryItem&gt;&gt;, body: Swift.Optional&lt;Foundation.Data&gt;) async throws -&gt; Swift.Result&lt;&#x3c4;_0_0, RickMortyUIKit.ApiClientError&gt;"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/ApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2229">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1719B3DC-1CF1-4DEE-9ECA-A9F41CB1B021"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Features/List/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30653C14-1958-45A9-9660-2225758FCBFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D5C39C5-8AB9-4538-9891-81FE83BC692B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "saveItems(page:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9930E7E-0C7D-4BBD-BB99-31679EC12E28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "saveItems(page:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EE7A046-3F2F-440D-B323-7613ACACFA5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Features/List/ListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchRemoteData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E27EEBF6-C6F3-4AEF-9B38-1C3F802A0222"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Features/List/ListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchLocalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E27EEBF6-C6F3-4AEF-9B38-1C3F802A0222 - 7e305c6fa4ce73a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.ListInteractor.fetchLocalData() -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Features/List/ListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "E27EEBF6-C6F3-4AEF-9B38-1C3F802A0222 - 7e305c6fa4ce73a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.ListInteractor.fetchLocalData() -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Features/List/ListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "E27EEBF6-C6F3-4AEF-9B38-1C3F802A0222 - b08a2178f7072d71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; () in RickMortyUIKit.ListInteractor.fetchLocalData() -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Features/List/ListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B54030A-3810-404C-80AD-A4489EE0F49A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Features/List/ListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchRemoteData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "075F527E-004D-4A75-82CC-9D0833FC9A54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/RemoteItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "075F527E-004D-4A75-82CC-9D0833FC9A54 - 31e3491e324da59a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in RickMortyUIKit.RemoteItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/RemoteItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "411">
+               </Location>
+               <Location
+                  uuid = "075F527E-004D-4A75-82CC-9D0833FC9A54 - 4e4591bb9c6f3769"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RickMortyUIKit.ItemApiResponse) -&gt; RickMortyUIKit.ItemRepositoryResponse in closure #1 @Sendable () async -&gt; () in RickMortyUIKit.RemoteItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/RemoteItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "66">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D242523C-E4C7-4E27-8AF8-D5E3F7714F30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/RemoteItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B025A36F-33C5-41D0-ABBB-09F6FEA353F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/RemoteItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1327E5CD-805D-4F48-94CC-8017C7DA957B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/RemoteItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "807F0039-17DE-4A6F-B6D1-E124B5F28C65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "sendRequest(method:path:queryItems:body:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB69DAA0-5DFF-46E4-BE48-9211EC9D4C34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB69DAA0-5DFF-46E4-BE48-9211EC9D4C34 - c88cf72d24b3108a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "418">
+               </Location>
+               <Location
+                  uuid = "FB69DAA0-5DFF-46E4-BE48-9211EC9D4C34 - c88cf72d24b3108a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0B3418B-71C0-4976-A955-AEDB0EBBBD1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0B3418B-71C0-4976-A955-AEDB0EBBBD1F - c88cf72d24b31036"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "861">
+               </Location>
+               <Location
+                  uuid = "E0B3418B-71C0-4976-A955-AEDB0EBBBD1F - c88cf72d24b31036"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "871">
+               </Location>
+               <Location
+                  uuid = "E0B3418B-71C0-4976-A955-AEDB0EBBBD1F - c88cf72d24b31036"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "989">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BB5A8D1-4380-437A-B8DE-B7FC7C3BF7EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C9E6AE8-13C8-4B78-8308-6C7575AA4370"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C9E6AE8-13C8-4B78-8308-6C7575AA4370 - c88cf72d24b3108a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "418">
+               </Location>
+               <Location
+                  uuid = "0C9E6AE8-13C8-4B78-8308-6C7575AA4370 - c88cf72d24b3108a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBEAFA18-1B2A-445F-BB5A-F137BF9F4C00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchItems(page:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FBEAFA18-1B2A-445F-BB5A-F137BF9F4C00 - c88cf72d24b30f4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "353">
+               </Location>
+               <Location
+                  uuid = "FBEAFA18-1B2A-445F-BB5A-F137BF9F4C00 - c88cf72d24b30f4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyUIKit.LocalItemRepository.fetchItems(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;RickMortyUIKit.ItemRepositoryResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickMortyUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cmuoz.altimetrik/Proyectos/TESTS/RickMortyUIKit/RickMortyUIKit/Data/Repositories/LocalItemRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "363">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
